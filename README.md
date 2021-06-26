@@ -1,6 +1,6 @@
 # Exercicio-SB
 <img src="https://ik.imagekit.io/lv0mjhrimui/qrdw0iy2qrufcd2c2rfk_Z14M394ys.webp" /> 
-<h1 align="center">Exercícios Spring Boot
+<h1 align="center">Exercícios Spring Boot   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
 
 
 ## 🚀 Sobre
